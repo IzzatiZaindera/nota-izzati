@@ -1,0 +1,5 @@
+import datetime
+
+d=datetime.date(2017,7,24)
+
+print(d)
